@@ -1,0 +1,11 @@
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\ServerService.exe.config
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\ServerService.exe
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\ServerService.pdb
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\QueueData.dll
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\Topshelf.dll
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\QueueData.pdb
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\bin\Debug\Topshelf.xml
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\obj\Debug\ServerService.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\obj\Debug\ServerService.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\obj\Debug\ServerService.exe
+C:\Users\Alizada\source\repos\task-messaging-queues\ServerService\obj\Debug\ServerService.pdb

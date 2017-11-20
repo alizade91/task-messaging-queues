@@ -1,0 +1,6 @@
+C:\Users\Alizada\source\repos\task-messaging-queues\QueueData\bin\Debug\QueueData.dll
+C:\Users\Alizada\source\repos\task-messaging-queues\QueueData\bin\Debug\QueueData.pdb
+C:\Users\Alizada\source\repos\task-messaging-queues\QueueData\obj\Debug\QueueData.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\task-messaging-queues\QueueData\obj\Debug\QueueData.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\task-messaging-queues\QueueData\obj\Debug\QueueData.dll
+C:\Users\Alizada\source\repos\task-messaging-queues\QueueData\obj\Debug\QueueData.pdb
